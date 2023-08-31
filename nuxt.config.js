@@ -39,7 +39,14 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@dargmuesli/nuxt-cookie-control"],
+  modules: ["@dargmuesli/nuxt-cookie-control", "@nuxtjs/sitemap"],
+
+  sitemap: {
+    hostname: "https://near-berlin.de",
+    gzip: true,
+    exclude: ["/impressum"],
+    routes: ["/MOF", "/"],
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
