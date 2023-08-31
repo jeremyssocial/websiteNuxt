@@ -3,7 +3,7 @@
   justify-content: center;
 }
 
-#index-content .glitch-text {
+#index-content :is(.glitch-text, h1) {
   text-align: center;
 }
 

@@ -1,6 +1,6 @@
 <template>
   <div id="index-content">
-    <GlitchText text="nr.bln" />
+    <h1><GlitchText text="nr.bln" /></h1>
     <div class="cube-container">
       <div class="cube">
         <div class="face front">nr.bln</div>
