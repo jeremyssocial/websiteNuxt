@@ -376,7 +376,7 @@
     <div class="text-lg mb-4">
       <p>
         Für weitere Informationen über MOF, wirf einen Blick auf unsere
-        offiziellen Seiten auf Instagram:
+        offiziellen community Seiten auf Instagram:
       </p>
       <div class="flex flex-wrap justify-around">
         <PersonCard
