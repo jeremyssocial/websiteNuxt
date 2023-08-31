@@ -5,5 +5,6 @@
       <Nuxt />
     </div>
     <Footer />
+    <CookieControl locale="de" />
   </div>
 </template>
