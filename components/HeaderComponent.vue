@@ -38,13 +38,14 @@
 .nav ul li {
   margin-left: 25px;
   position: relative;
+  display: flex;
+  align-items: center;
 }
 
-.nav ul li::after {
-  content: "|";
-  position: absolute;
-  right: -15px;
-  top: 0;
+.nav ul li:not(:last-child) {
+  border-right: 1px solid #fff;
+  padding-right: 15px;
+  margin-right: 10px;
 }
 
 .nav ul li:last-child::after {
