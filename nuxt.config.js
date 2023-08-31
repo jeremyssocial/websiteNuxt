@@ -45,7 +45,7 @@ export default {
     hostname: "https://near-berlin.de",
     gzip: true,
     exclude: ["/Impressum"],
-    routes: ["/MOF", "/"],
+    routes: ["/MOF/", "/"],
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
