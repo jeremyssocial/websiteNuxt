@@ -392,6 +392,46 @@
       </div>
     </div>
 
+    <h2 class="text-2xl font-semibold mb-2">Ansprechpartner</h2>
+
+    <p class="text-lg mb-4">
+      Diese Website entstand aus einem Instagram-Gruppenchat von
+      MOF-Mitgliedern. Die Admins der Gruppe sind die primären Ansprechpartner
+      für Fragen, Feedback oder Vorschläge:
+    </p>
+
+    <div class="flex flex-wrap justify-around">
+      <PersonCard
+        name="nr.bln"
+        role="MOF Admin"
+        igLink="https://www.instagram.com/nr.bln/"
+      />
+
+      <PersonCard
+        name="official_mof_gang"
+        role="MOF Admin"
+        igLink="https://www.instagram.com/official_mof_gang/"
+      />
+
+      <PersonCard
+        name="maro_mbb"
+        role="MOF Admin"
+        igLink="https://www.instagram.com/maro_mbb/"
+      />
+
+      <PersonCard
+        name="shbztjonas"
+        role="MOF Admin"
+        igLink="https://www.instagram.com/shbztjonas/"
+      />
+
+      <PersonCard
+        name="361erjamie"
+        role="MOF Admin"
+        igLink="https://www.instagram.com/361erjamie/"
+      />
+    </div>
+
     <h2 class="text-2xl font-semibold mb-2">Mach mit</h2>
 
     <p class="text-lg mb-4">
