@@ -82,7 +82,7 @@
       ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich
       ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
       Werbeinformationen, etwa durch Spam-Mails, vor.<br />
-      <br /><br /><strong>Google Analytics</strong><br /><br />
+      <!-- <br /><br /><strong>Google Analytics</strong><br /><br />
       Diese Website benutzt Google Analytics, einen Webanalysedienst der Google
       Inc. (''Google''). Google Analytics verwendet sog. ''Cookies'',
       Textdateien, die auf Ihrem Computer gespeichert werden und die eine
@@ -135,15 +135,16 @@
       sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der
       zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck
       einverstanden.
+    </p> -->
+      <br />
+      Impressum vom
+      <a href="https://www.impressum-generator.de">Impressum Generator</a> der
+      <a
+        href="https://www.kanzlei-hasselbach.de/standorte/frankfurt/"
+        rel="nofollow"
+        >Kanzlei Hasselbach, Frankfurt</a
+      >
     </p>
-    <br />
-    Impressum vom
-    <a href="https://www.impressum-generator.de">Impressum Generator</a> der
-    <a
-      href="https://www.kanzlei-hasselbach.de/standorte/frankfurt/"
-      rel="nofollow"
-      >Kanzlei Hasselbach, Frankfurt</a
-    >
   </div>
 </template>
 
