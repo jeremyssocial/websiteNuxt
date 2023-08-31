@@ -344,12 +344,11 @@
         >
       </li>
       <li>
-        <a
-          href="https://www.instagram.com/mofgang2023/"
-          class="text-blue-500 hover:underline"
-          >@mofgang2023</a
-        >
-        <PersonCard name="mofgang2023" role="Community Page" />
+        <PersonCard
+          name="mofgang2023"
+          role="Community Page"
+          igLink="https://www.instagram.com/mofgang2023/"
+        />
       </li>
     </ul>
 
