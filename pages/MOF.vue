@@ -311,8 +311,20 @@
         </p>
       </div>
     </blockquote>
-    <script async src="//www.instagram.com/embed.js"></script>
+    <script async src="https://www.instagram.com/embed.js"></script>
 
+    <p class="text-lg mb-4">
+      <strong>Q: Wie genau repräsentiert das Handzeichen "MOF"?</strong>
+      <br />
+      A: Das MOF Handzeichen wurde sorgfältig konstruiert, um das Akronym "MOF"
+      zu repräsentieren. Man krümmt Daumen, Zeige- und Ringfinger so, dass sie
+      die Handinnenfläche berühren, was als Symbol für das "M" dient. Der
+      Abstand zwischen den drei gekrümmten Fingern und den zwei ausgestreckten
+      Fingern symbolisiert das "O" für "Ohne". Dieser Zwischenraum repräsentiert
+      den leeren Raum oder das "Null"-Element, welches oft mit "Ohne" assoziiert
+      wird. Schließlich repräsentieren die beiden ausgestreckten Finger, der
+      Mittel- und der kleine Finger, das "F".
+    </p>
     <h2 class="text-2xl font-semibold mb-2">Ressourcen</h2>
 
     <p class="text-lg mb-4">
@@ -356,7 +368,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Dive in das Herz der MOF-Bewegung, eine neue Außenseiterbewegung in der deutschen Rap-Szene. Entdecke die tiefgehenden Lyrics, das einzigartige Handzeichen und die starke Gemeinschaft, die MOF definiert.",
+          "Entdecke in das Herz der MOF-Bewegung, eine neue Außenseiterbewegung in der deutschen Rap-Szene. Entdecke die tiefgehenden Lyrics, das einzigartige Handzeichen und die starke Gemeinschaft, die MOF definiert.",
       },
       {
         hid: "keywords",
