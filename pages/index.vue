@@ -3,10 +3,10 @@
     <div class="cube">
       <div class="face front">nr.bln</div>
       <div class="face back">near berlin</div>
-      <div class="face right">nr.bln</div>
-      <div class="face left">near berlin</div>
-      <div class="face top">nr.bln</div>
-      <div class="face bottom">near berlin</div>
+      <div class="face right">fashion</div>
+      <div class="face left">photography</div>
+      <div class="face top">developement</div>
+      <div class="face bottom">social media</div>
     </div>
   </div>
 </template>
