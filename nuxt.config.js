@@ -44,7 +44,7 @@ export default {
   sitemap: {
     hostname: "https://near-berlin.de",
     gzip: true,
-    exclude: ["/impressum"],
+    exclude: ["/Impressum"],
     routes: ["/MOF", "/"],
   },
 
