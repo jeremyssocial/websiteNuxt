@@ -149,7 +149,11 @@
 </template>
 
 <script>
-export default {};
+export default {
+  head: {
+    title: "Impressum",
+  },
+};
 </script>
 
 <style scoped></style>
