@@ -9,7 +9,7 @@
           <InstagramLogoLink />
         </li>
         <li>
-          <nuxt-link to="/impressum">Impressum</nuxt-link>
+          <nuxt-link to="/Impressum">Impressum</nuxt-link>
         </li>
       </ul>
     </nav>

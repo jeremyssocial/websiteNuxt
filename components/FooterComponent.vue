@@ -3,7 +3,7 @@
     <div class="content has-text-centered">
       <p>© 2023 nr.bln. Alle Rechte vorbehalten.</p>
       <p>
-        <nuxt-link to="/impressum">Impressum</nuxt-link>
+        <nuxt-link to="/Impressum">Impressum</nuxt-link>
       </p>
     </div>
   </footer>
