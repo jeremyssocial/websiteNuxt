@@ -1,36 +1,47 @@
 <template>
-  <div>
-    <h1>MOF - Die neue Außenseiterbewegung in der Deutschrap-Szene</h1>
-    <p>
-      Entdecke MOF, eine neue Bewegung in der deutschen Rap-Szene. Finde heraus,
-      was die MOF-Bewegung die Außenseiter zusammenbringt und die deutsche
-      Rap-Szene revolutioniert.
+  <div class="max-w-3xl mx-auto px-4">
+    <h1 class="text-3xl font-bold mb-4">
+      Willkommen bei MOF - Die neue Bewegung in der Deutschrap-Szene
+    </h1>
+
+    <p class="text-lg mb-4">
+      MOF ist eine aufstrebende Community innerhalb der Deutschrap-Szene. MOF,
+      die Abkürzung für "Mensch Ohne Freunde", repräsentiert eine Gruppierung
+      von Individualisten, die sich als Außenseiter verstehen und in Musik ihr
+      gemeinsames Heim finden. Hier dreht sich alles nicht ausschließlich um
+      einen Künstler oder Rapper, sondern um eine untereinander stützende
+      Gemeinschaft.
     </p>
 
-    <p>
-      Im ständig sich verändernden Meer der urbanen Subkulturen hat sich eine
-      neue Bewegung in der Deutschrap-Szene etabliert: MOF, abgekürzt für
-      "Mensch Ohne Freunde", zeichnet sich durch ein einzigartiges Handzeichen
-      aus, das jetzt als Symbol dieser Außenseitergemeinschaft weit verbreitet
-      und anerkannt ist. Wir tauchen tief in diese Bewegung ein und erforschen
-      die Bedeutung und das Potential von MOF.
+    <h2 class="text-2xl font-semibold mb-2">Unsere Mission</h2>
+
+    <p class="text-lg mb-4">
+      Unser Ziel bei MOF ist es, eine unterstützende Community für Außenseiter
+      zu entwickeln, die sich innerhalb der konventionellen Strukturen und
+      Erwartungen der Gesellschaft weniger repräsentiert fühlen. Wir sind eine
+      Gemeinschaft, die sich an den Prinzipien der Akzeptanz, des Respekts und
+      der Musikalität orientiert.
     </p>
 
-    <h2>Die Genesis des MOF Handzeichens</h2>
+    <h2 class="text-2xl font-semibold mb-2">Häufig gestellte Fragen</h2>
 
-    <p>
-      Das MOF Handzeichen wurde erstmals in einem Kollaborations-Post auf
-      Instagram zwischen
-      <a href="https://www.instagram.com/nr.bln/">@nr.bln</a> und
-      <a href="https://www.instagram.com/official_mof_gang/"
-        >@official_mof_gang</a
+    <p class="text-lg mb-4">
+      <strong>Q: Was bedeutet MOF?</strong><br />A: MOF steht für "Mensch Ohne
+      Freunde". MOF repräsentiert eine Gemeinschaft, die sich als Außenseiter
+      versteht und über die Konformität der Gesellschaft hinaus blickt.
+    </p>
+
+    <p class="text-lg mb-4">
+      <strong>Q: Was ist das MOF-Handzeichen?</strong><br />A: Das spezielle
+      MOF-Handzeichen wurde auf
+      <a
+        href="https://www.instagram.com/p/CwSN4CRNN-L/?img_index=1"
+        class="text-blue-500 hover:underline"
+        >Instagram</a
       >
-      vorgestellt. Dabei bildet die spezielle Positionierung und Krümmung der
-      Finger ein "M", "O" und "F", was für "Mensch Ohne Freunde" steht<a
-        href="https://www.instagram.com/p/CwYOsRXLYJQ/?img_index=1"
-      >
-        (Instagram Post)</a
-      >.
+      vorgestellt. Daumen, Zeigefinger und Ringfinger werden so gebeugt, dass
+      sie die Handfläche berühren. Die anderen beiden Finger bleiben
+      ausgestreckt, was die Initialen M, O und F repräsentiert.
     </p>
     <blockquote
       class="instagram-media"
@@ -302,54 +313,36 @@
     </blockquote>
     <script async src="//www.instagram.com/embed.js"></script>
 
-    <h2>Ein Symbol der Gemeinschaft und Zugehörigkeit</h2>
+    <h2 class="text-2xl font-semibold mb-2">Ressourcen</h2>
 
-    <p>
-      Seit seiner Vorstellung ist das MOF Handzeichen stark in der Community
-      verbreitet und anerkannt worden. Bilder des Handzeichens tauchen überall
-      auf, von Google-Bildersuche bis hin zu zahlreichen Beiträgen auf
-      Instagram<a href="https://www.instagram.com/p/CwgTrvbsku0/">
-        (Instagram Post)</a
-      >. Es ist bemerkenswert, wie dieses Handzeichen Ausdruck einer gemeinsamen
-      Identität und Zugehörigkeit für eine Gruppe von Menschen ist, die sich
-      außerhalb der Mainstream-Gesellschaft und oft missverstanden fühlen.
+    <p class="text-lg mb-4">
+      Für weitere Informationen über MOF, wirf einen Blick auf unsere
+      offiziellen Seiten auf Instagram:
     </p>
+    <ul>
+      <li>
+        <a
+          href="https://www.instagram.com/official_mof_gang/"
+          class="text-blue-500 hover:underline"
+          >@official_mof_gang</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.instagram.com/mofgang2023/"
+          class="text-blue-500 hover:underline"
+          >@mofgang2023</a
+        >
+      </li>
+    </ul>
 
-    <h2>Die Rolle von Ufo361</h2>
+    <h2 class="text-2xl font-semibold mb-2">Mach mit</h2>
 
-    <p>
-      Der Berliner Rapper Ufo361 ist eine zentrale Figur in der MOF-Bewegung.
-      Mit seinem angekündigten neuen Album
-      <a href="https://genius.com/albums/Ufo361/Mof">"MOF*"</a> und Songs, die
-      ein Leben in Einsamkeit und emotionaler Leere ausrücken, wie
-      <a href="https://genius.com/Ufo361-mensch-ohne-freunde-lyrics"
-        >"Mensch ohne Freunde"</a
-      >, hat er das Zeichen aufgenommen und die Bewegung um ihn herum
-      angetrieben.
-    </p>
-
-    <h2>Die Zukunft der MOF Bewegung</h2>
-
-    <p>
-      Angesichts der starken Verbreitung und Unterstützung der MOF-Bewegung
-      bleibt abzuwarten, wie sie sich entwickelt. Wie bei vielen Subkulturen,
-      bleibt es fraglich, ob sie langfristig Bestand haben wird oder ob sie bloß
-      ein vorübergehender Hype ist. Dennoch kann man nicht leugnen, dass die
-      MOF-Bewegung eine wichtige Nische gefüllt hat und einen starken Ausdruck
-      von Gemeinschaft und Identität für ihre Mitglieder bietet.
-    </p>
-
-    <h2>Schlussfolgerung</h2>
-
-    <p>
-      Die MOF-Bewegung, als Ausdruck einer neuen Außenseitersubkultur in der
-      Deutschrap-Szene, repräsentiert die Verschiebung der kulturellen
-      Landschaft entsprechend der jugendlichen Stimmungen und Bedürfnisse. In
-      seiner Essenz sieht MOF mehr als nur ein Handzeichen - es ist symbolisch
-      für den Kampf um Akzeptanz, Gemeinschaft und Zugehörigkeit unter
-      denjenigen, die sich oft ausgegrenzt und missverstanden fühlen. Während
-      die Bewegung wächst und sich entwickelt, bleibt es spannend zu sehen,
-      welchen invluence MOF auf die breitere Kultur haben wird.
+    <p class="text-lg mb-4">
+      Wir sind stolz auf die starke Gemeinschaft, die wir bisher aufgebaut haben
+      und würden uns freuen, dich als Teil von MOF willkommen zu heißen! Lass
+      uns zusammen eine Bewegung schaffen, die das Mainstream-Denken
+      herausfordert und die Deutschrap-Szene revolutioniert.
     </p>
   </div>
 </template>
