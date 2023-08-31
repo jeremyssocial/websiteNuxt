@@ -53,11 +53,3 @@ button:hover {
 .content a {
   color: #bb86fc;
 }
-
-.footer {
-  padding: 20px 0;
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  margin-top: 50px;
-}

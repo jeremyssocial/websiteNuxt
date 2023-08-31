@@ -9,6 +9,15 @@
   </footer>
 </template>
 
+<style>
+.footer {
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 50px;
+}
+</style>
 <script>
 export default {
   name: "FooterComponent",
