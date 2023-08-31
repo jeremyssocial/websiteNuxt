@@ -1,11 +1,8 @@
 <template>
   <div class="max-w-3xl mx-auto px-4">
     <h1 class="text-3xl font-bold mb-4">
-      Willkommen bei
-      <span class="mof-glitch">
-        <span data-glitch="MOF" class="glitch">MOF</span>
-      </span>
-      - Die neue Bewegung in der Deutschrap-Szene
+      Willkommen bei <GlitchText text="MOF" /> - Die neue Bewegung in der
+      Deutschrap-Szene
     </h1>
 
     <p class="text-lg mb-4">
@@ -524,6 +521,6 @@ export default {
 };
 </script>
 
-<style>
+<!-- <style>
 @import "~/assets/style/MOF/MOF.css";
-</style>
+</style> -->
