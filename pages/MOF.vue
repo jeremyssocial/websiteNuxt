@@ -349,6 +349,7 @@
           class="text-blue-500 hover:underline"
           >@mofgang2023</a
         >
+        <PersonCard name="mofgang2023" role="Community Page" />
       </li>
     </ul>
 
@@ -364,6 +365,8 @@
 </template>
 
 <script>
+import PersonCard from "../components/PersonCard.vue";
+
 export default {
   head: {
     title: "MOF - Entdecke die neue Deutschrap-Bewegung | @nr.bln",
@@ -438,5 +441,10 @@ export default {
         "Tauche ein in das Herz der MOF-Bewegung, eine revolutionäre neue Außenseiterkultur in der deutschen Rap-Szene mit Ufo361 an der Spitze.",
     },
   },
+  components: { PersonCard },
 };
 </script>
+
+<style>
+@import "~/assets/style/MOF/MOF.css";
+</style>
