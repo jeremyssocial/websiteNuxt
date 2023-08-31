@@ -27,6 +27,48 @@
       der Musikalität orientiert.
     </p>
 
+    <h2 class="text-2xl font-semibold mb-2">Wovon wir uns distanzieren</h2>
+
+    <p class="text-lg mb-4">
+      Bei MOF setzen wir uns für eine inklusive, respektvolle und vielfältige
+      Gemeinschaft ein. Deshalb distanzieren wir uns ausdrücklich von jeglicher
+      Form von Hass und Diskriminierung.
+    </p>
+
+    <details class="mb-4">
+      <summary class="cursor-pointer text-blue-500 hover:underline">
+        Dies umfasst, ist aber nicht beschränkt auf:
+      </summary>
+
+      <ul class="list-disc list-inside mt-2">
+        <li>Homophobie</li>
+        <li>Rassismus</li>
+        <li>Rechtsextremismus</li>
+        <li>Gewaltverherrlichung</li>
+        <li>Sexismus</li>
+        <li>Transphobie</li>
+        <li>
+          Ableismus (Diskriminierung aufgrund physischer oder mentaler
+          Fähigkeiten)
+        </li>
+        <li>Unterstützung von autokratischen Regimen oder Reichsbürgern</li>
+        <li>Gründung oder Unterstützung von Sekten</li>
+      </ul>
+    </details>
+
+    <p class="text-lg mb-4">
+      Wir sind eine Gemeinschaft, die die demokratischen Werte hochhält und den
+      Respekt für die Rechte und Freiheiten aller Einzelnen betont. Individuen,
+      die sich diesen Werten widersetzen und behaupten, sie seien Teil von MOF,
+      werden von uns nicht offiziell anerkannt. Während wir die Meinungsfreiheit
+      respektieren, distanzieren wir uns entschieden von diesen Aspekten und
+      erkennen diese Personen nicht als Teil unserer Gemeinschaft an. Wir
+      glauben an die Kraft der Musik, um Menschen zusammenzubringen, und wir
+      stehen für ein Umfeld, in dem sich jeder sicher und akzeptiert fühlt.
+      Unser Ziel ist es, eine positive und unterstützende Atmosphäre zu fördern,
+      die die Vielfalt und Individualität unserer Gemeinschaft respektiert.
+    </p>
+
     <h2 class="text-2xl font-semibold mb-2">Häufig gestellte Fragen</h2>
 
     <p class="text-lg mb-4">
