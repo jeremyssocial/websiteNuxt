@@ -1,0 +1,93 @@
+/* Dark Mode Styles */
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fafafa;
+}
+
+a {
+  color: #bb86fc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3700b3;
+}
+
+p,
+ul,
+ol,
+li {
+  color: #e0e0e0;
+}
+
+button {
+  background-color: #3a3a3a;
+  color: #fafafa;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5c5c5c;
+}
+
+.footer,
+.header {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+}
+
+.nav ul li a,
+.content a {
+  color: #bb86fc;
+}
+
+.footer {
+  padding: 20px 0;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav ul li {
+  margin-left: 15px;
+}
+
+/* Hover effects */
+
+.nav ul li a:hover,
+.content a:hover,
+a:hover {
+  color: #3700b3;
+}
