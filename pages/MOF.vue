@@ -337,11 +337,11 @@
     </p>
     <ul>
       <li>
-        <a
-          href="https://www.instagram.com/official_mof_gang/"
-          class="text-blue-500 hover:underline"
-          >@official_mof_gang</a
-        >
+        <PersonCard
+          name="official_mof_gang"
+          role="Community Page"
+          igLink="https://www.instagram.com/official_mof_gang/"
+        />
       </li>
       <li>
         <PersonCard
