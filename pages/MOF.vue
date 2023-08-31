@@ -373,26 +373,24 @@
     </p>
     <h2 class="text-2xl font-semibold mb-2">Ressourcen</h2>
 
-    <p class="text-lg mb-4">
-      Für weitere Informationen über MOF, wirf einen Blick auf unsere
-      offiziellen Seiten auf Instagram:
-    </p>
-    <ul>
-      <li>
+    <div class="text-lg mb-4">
+      <p>
+        Für weitere Informationen über MOF, wirf einen Blick auf unsere
+        offiziellen Seiten auf Instagram:
+      </p>
+      <div class="flex flex-wrap justify-around">
         <PersonCard
           name="official_mof_gang"
           role="Community Page"
           igLink="https://www.instagram.com/official_mof_gang/"
         />
-      </li>
-      <li>
         <PersonCard
           name="mofgang2023"
           role="Community Page"
           igLink="https://www.instagram.com/mofgang2023/"
         />
-      </li>
-    </ul>
+      </div>
+    </div>
 
     <h2 class="text-2xl font-semibold mb-2">Mach mit</h2>
 

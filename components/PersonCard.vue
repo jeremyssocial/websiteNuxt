@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="card-client">
+    <div class="card-client m-4">
       <div class="user-picture">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
           <path
