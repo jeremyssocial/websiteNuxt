@@ -51,7 +51,7 @@
         Guide. Dort habe ich gelernt, ansprechende Bilder zu machen, die
         Aufmerksamkeit erregen. Dieses Talent habe ich auf die Modefotografie
         übertragen, als ich angefangen habe ein größeres Interesse für Fashion
-        und Self-care entwickelt habe.
+        und Self-care zu entwickeln.
       </p>
 
       <p class="text-lg mb-4">
