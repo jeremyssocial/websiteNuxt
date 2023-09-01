@@ -81,6 +81,38 @@
         lesen, um mehr über meine Reise zu erfahren.
       </p>
 
+      <h2 class="text-2xl font-semibold mb-2">Featured Podcast Episode</h2>
+
+      <p class="text-lg mb-4">
+        In einer besonderen Episode des
+        <a
+          href="https://www.imdb.com/title/tt23668898/?ref_=tt_ov_inf"
+          class="text-blue-500 hover:underline"
+          >"Yaya Diamonds Dream Chasers Radio"</a
+        >, wurde ich, @nr.bln, hervorgehoben. Yaya Diamond, die Gastgeberin,
+        beleuchtete meine Arbeit als modebewusster Straßenfotograf in Berlin.
+        <a
+          href="https://www.imdb.com/title/tt28593625/"
+          class="text-blue-500 hover:underline"
+          >Schau dir die Episode an</a
+        >
+        und erfahre mehr über meine künstlerische Herangehensweise und meine
+        unkonventionelle Art der Selbstausdruck.
+      </p>
+
+      <p class="text-lg mb-4">
+        In der Diskussion wurde auch
+        <a
+          href="https://www.instagram.com/p/CsyJXbCMsYL/?img_index=1"
+          class="text-blue-500 hover:underline"
+          >ein Bild</a
+        >
+        hervorgehoben, das mich beim Spaziergang im Regen zeigt, was die
+        einzigartige Charme und Atmosphäre von Berlin einfängt. Es ist diese
+        Leidenschaft für das Einfangen von Momenten und das Erzählen von
+        Geschichten durch meine Bilder, die meine Arbeit auszeichnet.
+      </p>
+
       <h2 class="text-2xl font-semibold mb-2">Begleite mich</h2>
 
       <p class="text-lg mb-4">
