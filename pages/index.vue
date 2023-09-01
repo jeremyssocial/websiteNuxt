@@ -1,6 +1,5 @@
 <template>
   <div id="index-content">
-    <h1><GlitchText text="nr.bln" /></h1>
     <div class="cube-container">
       <div class="cube">
         <div class="face front">nr.bln</div>
@@ -10,6 +9,85 @@
         <div class="face top">development</div>
         <div class="face bottom">social media</div>
       </div>
+    </div>
+
+    <div class="max-w-3xl mx-auto px-4">
+      <h1 class="text-3xl font-bold mb-4">
+        Willkommen, in der Welt von <GlitchText text="nr.bln" />
+      </h1>
+
+      <p class="text-lg mb-4">
+        Als in Berlin ansässiges Talent bin ich,
+        <a
+          href="https://www.instagram.com/nr.bln/"
+          class="text-blue-500 hover:underline"
+          >@nr.bln</a
+        >, bekannt für meine einzigartige Perspektive in der Welt der
+        Modefotografie. Meine Reise begann als Google Local Guide, und heute
+        setze ich meine Leidenschaft für Technologie und Kreativität ein, um
+        Wellen in der Modeindustrie zu schlagen.
+      </p>
+
+      <h2 class="text-2xl font-semibold mb-2">Meine Geschichte</h2>
+
+      <p class="text-lg mb-4">
+        Mein Interesse an Technologie führte mich zu einer Ausbildung als
+        Softwareentwickler, wo ich mich in Programmiersprachen wie C++, Python,
+        JavaScript, PHP, HTML und CSS vertiefte. Neben der Technologie habe ich
+        eine Leidenschaft für Fotografie. Mehr zu meiner Geschichte findet ihr
+        auf meinem
+        <a
+          href="https://www.reddit.com/user/_-J-G-_/comments/14vyt3i/a_bit_about_me_nrbln/"
+          class="text-blue-500 hover:underline"
+          >Reddit Post</a
+        >.
+      </p>
+
+      <h2 class="text-2xl font-semibold mb-2">Häufig gestellte Fragen</h2>
+
+      <p class="text-lg mb-4">
+        <strong>Q: Wie bin ich zur Modefotografie gekommen?</strong><br />A:
+        Meine Reise zur Modefotografie begann mit meiner Arbeit als Google Local
+        Guide. Dort habe ich gelernt, ansprechende Bilder zu machen, die
+        Aufmerksamkeit erregen. Dieses Talent habe ich auf die Modefotografie
+        übertragen, als ich angefangen habe ein größeres Interesse für Fashion
+        und Self-care entwickelt habe.
+      </p>
+
+      <p class="text-lg mb-4">
+        <strong>Q: Was mache ich neben der Fotografie?</strong><br />A: Neben
+        der Fotografie bin ich auch ein Technik-Enthusiast. Ich habe einen
+        Hintergrund in der Softwareentwicklung und habe Erfahrung im Umgang mit
+        einer Vielzahl von Programmiersprachen. Außerdem interessiere ich mich
+        für KI-Technologien und bin ein geschlossener Betatester für zahlreiche
+        AI-Tools.
+      </p>
+
+      <h2 class="text-2xl font-semibold mb-2">Ressourcen</h2>
+
+      <p class="text-lg mb-4">
+        Für mehr Informationen, schaue dir meine
+        <a
+          href="https://www.instagram.com/nr.bln/"
+          class="text-blue-500 hover:underline"
+          >Instagram-Seite</a
+        >
+        an. Du kannst auch meine
+        <a
+          href="https://www.reddit.com/user/_-J-G-_/comments/14vyt3i/a_bit_about_me_nrbln/"
+          class="text-blue-500 hover:underline"
+          >Reddit-Beiträge</a
+        >
+        lesen, um mehr über meine Reise zu erfahren.
+      </p>
+
+      <h2 class="text-2xl font-semibold mb-2">Begleite mich</h2>
+
+      <p class="text-lg mb-4">
+        Ich freue mich darauf, dich auf meiner Reise durch Mode, Fotografie und
+        Technologie mitzunehmen. Zusammen können wir die Grenzen des Möglichen
+        erweitern und die Welt der Mode revolutionieren. Mach mit!
+      </p>
     </div>
   </div>
 </template>
