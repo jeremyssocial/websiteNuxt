@@ -1,15 +1,13 @@
 <template>
   <div id="index-content">
-    <div class="cube-container">
-      <div class="cube">
-        <div class="face front">nr.bln</div>
-        <div class="face back">near berlin</div>
-        <div class="face right">fashion</div>
-        <div class="face left">photography</div>
-        <div class="face top">development</div>
-        <div class="face bottom">social media</div>
-      </div>
-    </div>
+    <Cube3d
+      front="nr.bln"
+      back="near berlin"
+      right="fashion"
+      left="photography"
+      top="developement"
+      bottom="social media"
+    />
 
     <div class="max-w-3xl mx-auto px-4">
       <h1 class="text-3xl font-bold mb-4">
