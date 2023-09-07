@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-3xl mx-auto px-4">
     <h1 class="text-3xl font-bold mb-4">
-      MOF in der Musik: Der neue Song von Simply Finn 'BLACK'
+      MOF in der Musik: Der neue Song von Kenjy911 'BLACK'
     </h1>
 
     <p class="text-lg mb-4">
@@ -13,7 +13,7 @@
         href="https://distrokid.com/hyperfollow/kenjy911/black?fbclid=PAAaYXe5wGWHQsCHMmDu5OOVutZL7BjD9NrdHfx9Cs8vM2PqwqWxjSDr40ihs"
         class="text-blue-500 hover:underline"
         >BLACK</a
-      >" von Simply Finn, in dem er ausdrücklich die MOF Gemeinschaft erwähnt.
+      >" von Kenjy911, in dem er ausdrücklich die MOF Gemeinschaft erwähnt.
     </p>
 
     <h2 class="text-2xl font-semibold mb-2">Die MOF-Mention</h2>
@@ -54,7 +54,7 @@
     </p>
 
     <p class="text-lg mb-4">
-      Wir freuen uns auf das bevorstehende Lied 'BLACK' von Simply Finn und sind
+      Wir freuen uns auf das bevorstehende Lied 'BLACK' von Kenjy911 und sind
       gespannt, wie sich das Lied auf die Entwicklung von MOF auswirken wird.
     </p>
   </div>
@@ -63,31 +63,30 @@
 <script>
 export default {
   head: {
-    title: "MOF in Musik: 'BLACK' von Simply Finn | MOF Erwähnung | nr.bln",
+    title: "MOF in Musik: 'BLACK' von Kenjy911 | MOF Erwähnung | nr.bln",
     meta: [
       {
         hid: "description",
         name: "description",
         content:
-          "Erfahre mehr über die MOF Erwähnung im neuen Song 'BLACK' von Simply Finn, ein aufstrebender Artist in der Deutschrap-Szene. Entdecke, wie die MOF-Bewegung die Musikindustrie prägt.",
+          "Erfahre mehr über die MOF Erwähnung im neuen Song 'BLACK' von Kenjy911, ein aufstrebender Artist in der Deutschrap-Szene. Entdecke, wie die MOF-Bewegung die Musikindustrie prägt.",
       },
       {
         hid: "keywords",
         name: "keywords",
         content:
-          "MOF, Simply Finn, BLACK, Deutschrap, Musik, MOF4L, Außenseiterkultur, Gemeinschaft, Musikindustrie, MOF-Bewegung, nr.bln",
+          "MOF, Kenjy911, Simply Finn, BLACK, Deutschrap, Musik, MOF4L, Außenseiterkultur, Gemeinschaft, Musikindustrie, MOF-Bewegung, nr.bln",
       },
       {
         hid: "og:title",
         property: "og:title",
-        content:
-          "MOF in Musik: 'BLACK' von Simply Finn | MOF Erwähnung | nr.bln",
+        content: "MOF in Musik: 'BLACK' von Kenjy911 | MOF Erwähnung | nr.bln",
       },
       {
         hid: "og:description",
         property: "og:description",
         content:
-          "Entdecke die Auswirkungen der MOF-Bewegung im neuen Song 'BLACK' von Simply Finn, und wie diese Außenseitergemeinschaft die Musikindustrie beeinflusst.",
+          "Entdecke die Auswirkungen der MOF-Bewegung im neuen Song 'BLACK' von Kenjy911, und wie diese Außenseitergemeinschaft die Musikindustrie beeinflusst.",
       },
       {
         hid: "og:url",
@@ -115,7 +114,7 @@ export default {
     structuredData: {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
-      headline: "MOF in Musik: 'BLACK' von Simply Finn | MOF Erwähnung",
+      headline: "MOF in Musik: 'BLACK' von Kenjy911 | MOF Erwähnung",
       image: [
         "https://preview.redd.it/20inaqkugvkb1.jpg?width=1440&format=pjpg&auto=webp&s=4cb5928824f9b8306311b51fe85c6ecab0515eb2",
       ],
@@ -134,7 +133,7 @@ export default {
         },
       },
       description:
-        "Entdecke die Auswirkungen der MOF-Bewegung im neuen Song 'BLACK' von Simply Finn, und wie diese Außenseitergemeinschaft die Musikindustrie beeinflusst.",
+        "Entdecke die Auswirkungen der MOF-Bewegung im neuen Song 'BLACK' von Kenjy911, und wie diese Außenseitergemeinschaft die Musikindustrie beeinflusst.",
     },
   },
 };
