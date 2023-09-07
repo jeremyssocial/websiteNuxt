@@ -172,7 +172,7 @@
 </template>
 
 <script>
-import PersonCard from "../components/PersonCard.vue";
+import PersonCard from "../../components/PersonCard.vue";
 
 export default {
   head: {
