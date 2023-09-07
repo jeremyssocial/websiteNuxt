@@ -91,8 +91,7 @@ export default {
       {
         hid: "og:url",
         property: "og:url",
-        content:
-          "https://near-berlin.de/MOF/blog/kenjy911-finn-black-mof-mention",
+        content: "https://near-berlin.de/MOF/blog/kenjy911-black-mof-mention",
       },
       {
         hid: "og:image",
