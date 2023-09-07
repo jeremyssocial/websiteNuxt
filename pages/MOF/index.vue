@@ -108,9 +108,9 @@
       </p>
       <div class="flex flex-wrap justify-around">
         <PersonCard
-          name="official_mof_gang"
+          name="mofgang4l"
           role="Community Page"
-          igLink="https://www.instagram.com/official_mof_gang/"
+          igLink="https://www.instagram.com/mofgang4l/"
         />
         <PersonCard
           name="mofgang2023"
@@ -136,9 +136,9 @@
       />
 
       <PersonCard
-        name="official_mof_gang"
+        name="mofgang4l"
         role="MOF Admin"
-        igLink="https://www.instagram.com/official_mof_gang/"
+        igLink="https://www.instagram.com/mofgang4l/"
       />
 
       <PersonCard
