@@ -108,11 +108,6 @@
       </p>
       <div class="flex flex-wrap justify-around">
         <PersonCard
-          name="mofgang4l"
-          role="Community Page"
-          igLink="https://www.instagram.com/mofgang4l/"
-        />
-        <PersonCard
           name="mofgang2023"
           role="Community Page"
           igLink="https://www.instagram.com/mofgang2023/"
