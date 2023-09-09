@@ -103,8 +103,8 @@
 
     <div class="text-lg mb-4">
       <p>
-        Für weitere Informationen über MOF, wirf einen Blick auf unsere
-        offiziellen community Seiten auf Instagram:
+        Für weitere Informationen über MOF, wird einen Blick auf unsere Fanpage
+        community Seiten auf Instagram:
       </p>
       <div class="flex flex-wrap justify-around">
         <PersonCard
