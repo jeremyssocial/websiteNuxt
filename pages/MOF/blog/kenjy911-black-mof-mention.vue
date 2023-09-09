@@ -10,10 +10,15 @@
       deutlich auf eine bestimmte Gruppe anspielt, die Deutschrap-Szene in
       Aufruhr versetzt. Dieser Artikel konzentriert sich auf den bevorstehenden
       Song "<a
-        href="https://distrokid.com/hyperfollow/kenjy911/black?fbclid=PAAaYXe5wGWHQsCHMmDu5OOVutZL7BjD9NrdHfx9Cs8vM2PqwqWxjSDr40ihs"
+        href="https://distrokid.com/hyperfollow/kenjy911/black"
         class="text-blue-500 hover:underline"
         >BLACK</a
-      >" von Kenjy911, in dem er ausdrücklich die MOF Gemeinschaft erwähnt.
+      >" von
+      <a
+        href="https://www.instagram.com/simply._.finn/"
+        class="text-blue-500 hover:underline"
+        >Kenjy911</a
+      >, in dem er ausdrücklich die MOF Gemeinschaft erwähnt.
     </p>
 
     <h2 class="text-2xl font-semibold mb-2">Die MOF-Mention</h2>
